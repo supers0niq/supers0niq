@@ -1,6 +1,6 @@
+### привет! моё имя слева под аватаркой. дальше надо что-то писать? просто смотри гифку
 ![Header](https://github.com/supers0niq/supers0niq/blob/main/assets/%D0%BA%D0%BE%D1%82-%D1%87%D0%B0%D0%B2%D0%BA%D0%B0%D0%B5%D1%82.gif)
 
-### привет! моё имя слева под аватаркой. дальше надо что-то писать? просто смотри гифку
 
 ### во что умею
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
